@@ -48,7 +48,7 @@ export const Footer: React.FC<FooterProps> = ({
             </div>
             <div className="flex items-baseline space-x-2">
               <span className="text-lg sm:text-xl font-black text-white">
-                맥섬석<span className="text-xl sm:text-2xl">GM</span>㈜
+                맥섬석<span className="text-[22px]">GM</span>㈜
               </span>
               <span className="text-xl sm:text-2xl font-black text-emerald-400 tracking-tight">Growfeed®</span>
             </div>
